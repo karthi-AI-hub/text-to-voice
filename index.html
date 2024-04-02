@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <title>wwww.TextToVoice.com</title>
+    <link rel="icon" href="./images/logo.png" />
+  </head>
+  <body>
+    
+    <a href="/index.html"><b>BACK</b></a>
+    <div class="container">
+      <h1><i>Text To Voice <u style="color: black;"><span>Converter</span></u></i></h1>
+      <textarea
+        id="textToSpeech"
+        placeholder="Write anything here to listen..."
+      ></textarea>
+      <div class="row">
+        <select>
+          <option value="">Voice</option>
+        </select>
+        <button><img src="images/play.png" />Listen</button>
+      </div>
+    </div>
+
+    <footer>
+      <b>Copyrights &copy; KS PROJECTS 2024. All Rights Reserved</b>
+    </footer>
+    <script src="./script.js"></script>
+  </body>
+
+  <!-- <script>
+    var speech = new SpeechSynthesisUtterance();
+    function speak() {
+      speech.text = textToSpeech.value;
+      speech.volume = 1;
+      speech.rate = 1;
+      speech.pitch = 2;
+      window.speechSynthesis.speak(speech);
+    }
+  </script>
+--></html>
