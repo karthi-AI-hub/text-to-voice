@@ -15,8 +15,7 @@ A clean, browser-based Text-to-Speech (TTS) application powered by the Web Speec
 👉 [Live App](https://ks-webpage.neocities.org/text-speech)
 
 ## 📸 Screenshots
-
-[](./screenshot.png)
+![App Screenshot](./screenshot1.png)
 
 ## 🛠️ Tech Stack
 
@@ -42,20 +41,19 @@ git clone https://github.com/karthi-AI-hub/text-to-voice.git
 cd text-to-voice
 ```
 
-📌 Use Cases
-Reading out articles or notes
+## 📌 Use Cases
 
-Accessibility enhancement for visually impaired users
+- 📰 Reading out articles or notes  
+- ♿ Accessibility enhancement for visually impaired users  
+- 🌐 Language learning and pronunciation practice  
+- 🧠 Quick proofreading via audio  
 
-Language learning and pronunciation practice
-
-Quick proofreading via audio
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the project, open issues, or submit pull requests.
 
-$$ 📄 License
-This project is licensed under the MIT [LICENSE](./LICENSE). See the LICENSE file for details.
+## 📄 License
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 Made with 💙 by Karthikeyan S
 
